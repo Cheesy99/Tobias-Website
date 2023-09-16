@@ -16,5 +16,5 @@ homeButton.addEventListener('click', () => {
 const myPassionsButton = document.getElementById('MyPassions');
 
 myPassionsButton.addEventListener('click', () => {
-    window.location.href = 'myPassionsButton';
+    window.location.href = 'myPassion.html';
 });

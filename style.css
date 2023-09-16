@@ -1,0 +1,37 @@
+body{
+    overflow-x: hidden;
+    overflow-y: scroll;
+    background-color: #C5C8D0;
+}
+
+#Main{
+    padding: 5% 3%;
+    display: flex;
+    flex-direction: column;
+}
+
+
+#Upper-part{
+    height: 200px;
+    width: 1400px;
+}
+
+.background-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(Pictures/HomeScreenBackgroundFaded.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+#Main-text{
+    width: 900px;
+    color: #222121;
+    font-size: 4em;
+}
+
+#footer, p{
+    color: black;
+}

@@ -37,15 +37,16 @@ body{
 }
 
 .Buttons{
+
     display: flex;
     align-items: flex-start;
     background-color: #C5C8D0;
 }
 
 button {
+
     padding: 10px 20px;
     margin: 2px;
-    justify-content: flex-end;
     background-color: #a10f3d;
     color: white;
     border: none;
